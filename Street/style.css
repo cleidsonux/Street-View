@@ -1,0 +1,101 @@
+*  {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.painel {
+    
+    background-image: url(/IMG/jakob-cotton-nXIFNdBNBRw-unsplash.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    
+    
+}
+
+.container {
+
+    
+    background-color: rgba(78, 37, 18, 0.63);
+    height: 200px;
+    max-width: 700px;
+    margin: 100px auto 0px auto;
+    border-radius: 5px;
+
+    
+}
+
+.main-nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.nav {
+    color: white;
+    font-weight: 100;
+}
+
+.buscar {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+    
+}
+
+input {
+    font-size: 15px;
+    padding: 2px;
+}
+.painel-container {
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.main-logo {
+   background-color: rgba(244, 248, 252, 0.952);
+    max-width: 80px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+.logo {
+    height: 80px;
+    
+}
+
+
+
+.main-pesquisa {
+    
+    
+    max-width: 300px;
+    margin: 20px;
+}
+.galeria-container {
+ 
+    max-width: 900px;
+    margin: 0 auto;
+    height: 700px;
+}
+.descricao {
+    margin-top: 20px;
+    max-width: 500px;
+}
+
+.title {
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
