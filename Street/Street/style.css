@@ -1,0 +1,210 @@
+*  {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.painel {
+    
+    background-image: url(IMG/jakob-cotton-nXIFNdBNBRw-unsplash.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    
+    
+}
+
+.container {
+
+    
+    background-color: rgba(78, 37, 18, 0.63);
+    height: 200px;
+    max-width: 700px;
+    margin: 100px auto 0px auto;
+    border-radius: 5px;
+
+    
+}
+
+.main-nav {
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.nav {
+    color: white;
+    font-weight: 100;
+}
+
+.buscar {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+    
+}
+
+input {
+    font-size: 15px;
+    padding: 2px;
+}
+.painel-container {
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.main-logo {
+   background-color: rgba(244, 248, 252, 0.952);
+    max-width: 80px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+.logo {
+    height: 80px;
+    
+}
+
+
+
+.main-pesquisa {
+    
+    
+    max-width: 300px;
+    margin: 20px;
+}
+.galeria-container {
+ 
+    max-width: 900px;
+    margin: 0 auto;
+    height: 700px;
+}
+.descricao {
+    margin-top: 20px;
+    max-width: 500px;
+}
+
+.title {
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.main-cards {
+    
+    height: 500px;
+    max-width: 1000px;
+    min-width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.main-card {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.main-img1 {
+   background-image: url(/Street/IMG/liza-rusalskaya-0gqcBEe2rv8-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+   height: 300px;
+    min-width: 400px;
+}
+#main-img {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    justify-content: center;
+    gap: 5px;
+    background-color: rgb(213, 216, 215);
+    height: 300px;
+    width: 400x;
+}
+
+.galeria-1 {
+    background-image: url(/Street/IMG/alex-radelich-XVUQfCkcaUg-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.galeria-2 {
+    background-image: url(/Street/IMG/jakob-cotton-nXIFNdBNBRw-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.galeria-3 {
+    background-image: url(/Street/IMG/paul-gilmore-jBCSAAcANG8-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.galeria-4 {
+    background-image: url(/Street/IMG/philipp-lublasser-bGaj8lcmbL8-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.desc1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+button {
+    border-radius: 4px;
+    padding: 4px;
+    font-size: small;
+    background-color: rgb(94, 35, 20);
+    color: aliceblue;
+}
+
+input {
+    border-radius: 2px;
+    border: none;
+    padding: 5px;
+}
+
+#foot-main {
+    background-color: rgb(48, 44, 43);
+    height: 200px;
+
+}
+
+.contact h1 {
+   padding-top: 20px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.main-social {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+    height: 40px;
+    margin-top: 40px;
+
+}
+.social {
+    font-weight: 600;
+    padding: 2px;
+    color: aliceblue;
+}
+.img-social {
+    height: 22px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    
+}
+
